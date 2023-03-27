@@ -1,0 +1,16 @@
+{
+  "as": "AS16509 Amazon.com, Inc.",
+  "city": "Boardman",
+  "country": "United States",
+  "countryCode": "US",
+  "isp": "Amazon",
+  "lat": 45.8696,
+  "lon": -119.688,
+  "org": "Amazon",
+  "query": "53.141.83.95",
+  "region": "AZ",
+  "regionName": "Arizona",
+  "status": "success",
+  "timezone": "America\/Los_Angeles",
+  "zip": "17832"
+}
